@@ -1,0 +1,52 @@
+{
+  "result": [
+  {
+    "no": "1",
+    "name": "Rostiana Brigita Naomi",
+    "Position": "Manager",
+    "International": "Singapore",
+    "Team": "NCT 127",
+    "Poster": "https://drive.google.com/file/d/1vSzfhOv2mBzShKhD9c-pbhOQWKVd1raL/view?usp=sharing"
+  },
+  {
+    "no": "2",
+    "name": "Lee Taeyong ",
+    "Position": "Leader",
+    "International": "South Korea",
+    "Team": "NCT 127",
+    "Poster": "https://i.postimg.cc/Hc6DL0Fk/20231006-Taeyong-NCT.jpg "
+  },
+  {
+    "no": "3",
+    "name": "Mark Lee",
+    "Position": "Main Rapper",
+    "International": "Canada",
+    "Team": "NCT 127",
+    "Poster": "https://i.postimg.cc/HcY1HvZN/20231006-Mark-NCT.jpg"
+  },
+  {
+    "no": "4",
+    "name": "Moon Taeil",
+    "Position": "Main Vocalist",
+    "International": "South Korea",
+    "Team": "NCT 127",
+    "Poster": "https://i.postimg.cc/GB11gmkd/taeil-nct-1-169.jpg "
+  },
+  {
+    "no": "5",
+    "name": "Kim Doyoung",
+    "Position": "Main Vocalist",
+    "International": "South Korea",
+    "Team": "NCT 127",
+    "Poster": "https://i.postimg.cc/3yCQsQBp/20231006-Doyoung-NCT.jpg "
+  },
+  {
+    "no": "6",
+    "name": "Nakamoto Yuta",
+    "Position": "Lead Dancer",
+    "International": "Japan",
+    "Team": "NCT 127",
+    "Poster": "https://i.postimg.cc/QF73qTKf/nakamoto-Yuta.jpg "
+  }
+ ]
+}
